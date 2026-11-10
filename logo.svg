@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Simulacro 11</title>
+  <desc id="desc">Símbolo circular con una marca de verificación y líneas de estudio</desc>
+  <rect width="256" height="256" rx="64" fill="#172c4d"/>
+  <circle cx="128" cy="128" r="76" fill="#f4b41a"/>
+  <path d="M91 131.5 116 156l52-61" fill="none" stroke="#172c4d" stroke-linecap="round" stroke-linejoin="round" stroke-width="19"/>
+  <path d="M54 61h44M158 61h44M54 195h44M158 195h44" stroke="#f8f4ea" stroke-linecap="round" stroke-width="9" opacity=".9"/>
+</svg>
